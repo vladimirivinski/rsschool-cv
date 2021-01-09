@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #f2f2f2;
   background-color: hsl(300, 60%, 2%);
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("hero-bg.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -42,12 +42,12 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email.svg");
+  background-image: url("icon-email.svg");
 }
 
 .header-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
+  background-image: url("icon-phone.svg");
 }
 
 .hero-image {
@@ -134,16 +134,16 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/icon-email.svg");
+  background-image: url("icon-email.svg");
 }
 
 .footer-phone {
   padding-left: 25px;
-  background-image: url("img/icon-phone.svg");
+  background-image: url("icon-phone.svg");
 }
 
 .footer-github {
   padding-left: 25px;
-  background-image: url("img/icon-github.svg");
+  background-image: url("icon-github.svg");
 }
 
